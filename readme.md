@@ -12,5 +12,5 @@ Application for experiment and test purposes.
 ```
 system_services_script.sql
 ```
-https://github.com/Jaas34/system-services
+
 ![main view](https://raw.githubusercontent.com/Jaas34/system-services/main/assets/img/Screenshot_1.png)
